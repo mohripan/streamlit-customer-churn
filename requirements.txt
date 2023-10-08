@@ -4,3 +4,7 @@ numpy
 seaborn
 matplotlib
 scikit-learn==1.2.2
+xgboost
+scipy
+category_encoders
+imblearn

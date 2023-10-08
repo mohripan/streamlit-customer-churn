@@ -1,0 +1,6 @@
+streamlit
+pandas<2.0.0
+numpy
+seaborn
+matplotlib
+scikit-learn==1.2.2
